@@ -5,6 +5,8 @@
 - [github](https://fruitsdrink.github.io)
 - [vercel](https://fruitsdrink-blog.vercel.app)
 
+## hero 命令
+
 编译静态文件
 
 ```bash
@@ -15,6 +17,12 @@ hexo g
 
 ```bash
 hexo s
+```
+
+新建页面
+
+```bash
+hexo new page tags
 ```
 
 ## 发布到 github
